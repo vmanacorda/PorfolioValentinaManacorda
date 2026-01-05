@@ -46,7 +46,7 @@ npm run dev
 El portfolio se encuentra desplegado en Vercel.
 
 🔗 Portfolio online:
-👉 (agregar aquí el link de Vercel)
+👉 porfolio-valentina-manacorda-6g9nhnb1h.vercel.app
 
 Ejemplo:
 https://valentina-manacorda.vercel.app
