@@ -1,16 +1,54 @@
-# React + Vite
+# 💼 Portfolio – Valentina Manacorda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido/a a mi portfolio profesional.  
+Soy **Desarrolladora Front-End** con experiencia en **Power Apps** y actualmente en formación en **Inteligencia Artificial aplicada al desarrollo**, integrando automatización y soluciones asistidas por IA.
 
-Currently, two official plugins are available:
+Este portfolio reúne mis proyectos, habilidades y certificaciones, con foco en la experiencia de usuario, soluciones funcionales y diseño moderno.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologías utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React  
+- Vite  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- GitHub  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Características del portfolio
+
+- Diseño moderno y responsive  
+- Navegación clara por secciones  
+- Proyectos reales con enfoque funcional  
+- Sección de certificaciones  
+- Descarga directa de CV  
+- Preparado para entorno productivo  
+
+---
+
+## 🧠 Formación continua
+
+Actualmente me encuentro formándome en **Inteligencia Artificial aplicada al desarrollo**, incorporando automatización y soluciones asistidas por IA en aplicaciones web.
+
+
+🛠️ Instalación y uso local
+
+git clone https://github.com/vmanacorda/PorfolioValentinaManacorda.git
+cd PorfolioValentinaManacorda
+npm install
+npm run dev
+
+🌍 Deploy
+
+El portfolio se encuentra desplegado en Vercel.
+
+🔗 Portfolio online:
+👉 (agregar aquí el link de Vercel)
+
+Ejemplo:
+https://valentina-manacorda.vercel.app
+
+Gracias por visitar mi portfolio 🚀
