@@ -27,7 +27,8 @@ Abierta a nuevos desafíos en el mundo IT.git status
           </a>
 
           <a
-            href="cv.Valentina-Manacorda.pdf"
+            href="cv.Valentina-Manacorda.pdf
+"
             className="btn btn-ghost"
             target="_blank"
             rel="noopener"
