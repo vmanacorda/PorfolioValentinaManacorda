@@ -14,7 +14,6 @@ function Projects() {
       </div>
 
       <div className="projects-grid">
-
         <div className="project-card">
           <div
             className="project-img"
@@ -25,8 +24,8 @@ function Projects() {
           <h3>Tienda Online – React</h3>
 
           <p>
-            Ecommerce desarrollado con React y Vite. Catálogo dinámico, carrito de compras,
-            diseño responsive y deploy en Vercel.
+            Ecommerce desarrollado con React y Vite. Catálogo dinámico, carrito
+            de compras, diseño responsive y deploy en Vercel.
           </p>
 
           <div className="project-buttons">
@@ -69,6 +68,18 @@ function Projects() {
               onClick={() => setShowPowerAppsDetail(true)}
             >
               Ver detalles
+            </button>
+
+            <button
+              className="btn btn-secondary"
+              onClick={() =>
+                window.open(
+                  "https://drive.google.com/file/d/1rGtbLedj34mAKexXqVIzthBKUCAVhn_9/preview",
+                  "_blank"
+                )
+              }
+            >
+              Ver demo
             </button>
           </div>
         </div>
