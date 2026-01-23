@@ -71,10 +71,11 @@ function Projects() {
             </button>
 
             <button
-              className="btn btn-secondary"
+              className="className="btn btn-ghost"
+"
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/1rGtbLedj34mAKexXqVIzthBKUCAVhn_9/preview",
+                  "https://drive.google.com/drive/folders/1rGtbLedj34mAKexXqVlzthBKUCAvhn_9?usp=drive_link",
                   "_blank"
                 )
               }
