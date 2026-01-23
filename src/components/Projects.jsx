@@ -14,6 +14,7 @@ function Projects() {
       </div>
 
       <div className="projects-grid">
+        {/* ===================== PROYECTO REACT ===================== */}
         <div className="project-card">
           <div
             className="project-img"
@@ -37,6 +38,7 @@ function Projects() {
             >
               Ver tienda
             </a>
+
             <a
               href="https://github.com/vmanacorda/mi-tienda-react"
               target="_blank"
@@ -48,6 +50,7 @@ function Projects() {
           </div>
         </div>
 
+        {/* ===================== PROYECTO POWER APPS ===================== */}
         <div className="project-card">
           <div
             className="project-img"
@@ -55,37 +58,35 @@ function Projects() {
               backgroundImage: `url('/assets/certificaciones/powerapps/powerApps.png')`,
             }}
           />
-          <h3>Panel de Cobranzas - Power Apps</h3>
+          <h3>Panel de Cobranzas – Power Apps</h3>
 
           <p>
-            App empresarial con módulos para Asesores y Gerentes,
-            integrada con SharePoint y Power Automate.
+            App empresarial con módulos para Asesores y Gerentes, integrada con
+            SharePoint y Power Automate.
           </p>
 
           <div className="project-buttons">
             <button
+              type="button"
               className="btn btn-primary"
               onClick={() => setShowPowerAppsDetail(true)}
             >
               Ver detalles
             </button>
 
-            <button
-              className="className="btn btn-ghost"
-"
-              onClick={() =>
-                window.open(
-                  "https://drive.google.com/drive/folders/1rGtbLedj34mAKexXqVlzthBKUCAvhn_9?usp=drive_link",
-                  "_blank"
-                )
-              }
+            <a
+              href="https://drive.google.com/drive/folders/1rGtbLedj34mAKexXqVlzthBKUCAvhn_9?usp=drive_link"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-ghost"
             >
               Ver demo
-            </button>
+            </a>
           </div>
         </div>
       </div>
 
+      {/* ===================== MODAL POWER APPS ===================== */}
       {showPowerAppsDetail && (
         <div
           className="powerapps-modal-overlay"
