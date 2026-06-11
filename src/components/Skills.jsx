@@ -4,7 +4,6 @@ function Skills() {
       <div className="section-header">
         <div className="section-title">
           <h2>Habilidades</h2>
-          <span>Mi stack técnico y herramientas principales.</span>
         </div>
       </div>
 
@@ -31,6 +30,7 @@ function Skills() {
             <li>Reportes y seguimientos de bugs</li>
              <li>Jira</li>
              <li>Validacion de flujos de negocio</li>
+            <li>Testing responsive (desktop y movile)</li>
           </ul>
         </div>
 
@@ -60,13 +60,14 @@ function Skills() {
         </div>
 
         <div className="skill-card">
-          <h3>Soft Skills</h3>
+          <h3>Habilidades</h3>
           <ul>
             <li>Proactividad</li>
             <li>Comunicación</li>
             <li>Trabajo en equipo</li>
-            <li>Adaotabilidad</li>
+            <li>Adaptabilidad</li>
             <li>Resolución de problemas</li>
+            <li>Aprendizaje continuo</li>
           </ul>
         </div>
 
