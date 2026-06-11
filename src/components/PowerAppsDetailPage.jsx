@@ -6,7 +6,7 @@ function PowerAppsDetailPage() {
 
       <section className="section-box">
         <p className="section-tag">Proyecto destacado</p>
-        <h1 className="section-title">Solución de Cobranzas - Power Apps</h1>
+        <h1 className="section-title">Solución de Cobranzas - Power Platform</h1>
 
         <p className="section-subtitle">
           Aplicación empresarial desarrollada para gestionar y automatizar el proceso
