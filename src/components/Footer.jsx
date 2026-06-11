@@ -6,7 +6,7 @@ function Footer() {
       <div className="footer-content">
 
         <p className="footer-text">
-          © {year} Valentina Manacorda — Front-End & Power Apps Developer
+          © {year} Valentina Manacorda 
         </p>
 
         <div className="footer-links">
