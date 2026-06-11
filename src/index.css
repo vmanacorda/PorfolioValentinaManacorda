@@ -107,17 +107,6 @@ header {
   color: var(--text-soft);
 }
 
-
-.brand span:last-child {
-  text-transform: none;
-  font-size: 0.8rem;
-  color: var(--accent);
-  background: rgba(249,115,22,0.12);
-  padding: 0.1rem 0.6rem;
-  border-radius: 999px;
-  border: 1px solid rgba(249,115,22,0.4);
-}
-
 nav {
   display: flex;
   align-items: center;
