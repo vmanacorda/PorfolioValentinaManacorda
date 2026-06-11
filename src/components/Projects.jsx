@@ -58,7 +58,7 @@ function Projects() {
               backgroundImage: `url('/assets/certificaciones/powerapps/powerApps.png')`,
             }}
           />
-          <h3>Panel de Cobranzas – Power Apps</h3>
+          <h3>Panel de Cobranzas – Power Platform</h3>
 
           <p>
             App empresarial con módulos para Asesores y Gerentes, integrada con
