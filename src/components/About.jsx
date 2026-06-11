@@ -17,12 +17,10 @@ export default function About() {
           </p>
 
           <p>
-            Mi camino en tecnología comenzó con <strong>Power Apps</strong>,
-            creando soluciones internas para optimizar procesos. Ese interés me
-            llevó a formarme en{" "}
-            <strong>Desarrollo Web, JavaScript y React</strong>, trabajando
-            también con herramientas como{" "}
-            <strong>GitHub, Bootstrap y Vite</strong>.
+            Mi camino en tecnología comenzó realizando pruebas funcionales en aplicaciones desarrolladas con Power Apps.
+            Luego evolucioné hacia el desarrollo de soluciones con Power Platform, creando aplicaciones y automatizaciones para
+            optimizar procesos. Esa experiencia despertó mi interés por el desarrollo web, por lo que me formé en JavaScript y React. 
+            Actualmente continúo ampliando mis conocimientos en Inteligencia Artificial aplicada al desarrollo.
           </p>
 
           <p>
@@ -33,9 +31,9 @@ export default function About() {
 
           <div className="badges">
             <span className="badge">Front-End</span>
-            <span className="badge">Power Apps</span>
-            <span className="badge">Experiencia en clientes</span>
-            <span className="badge">Aprendizaje constante</span>
+            <span className="badge">Power Platform</span>
+            <span className="badge">QA Tester</span>
+            <span className="badge">IA Aplicada</span>
           </div>
         </div>
       </div>
