@@ -7,7 +7,7 @@ function Navbar() {
         <a href="#top" className="brand">
           <img src={logoV} alt="Logo" className="brand-mark" />
           <span>Valentina Manacorda</span>
-          <span>Front-End & Power Apps</span>
+          <span>Front-End & Power Platform</span>
         </a>
 
         <nav>
