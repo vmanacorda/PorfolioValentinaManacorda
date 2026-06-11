@@ -21,7 +21,7 @@ Actualmente continúo capacitándome en Inteligencia Artificial aplicada al desa
 
         <div className="hero-actions">
           <a href="#proyectos" className="btn btn-primary">
-            <span className="btn-icon">⚡</span>
+            <span className="btn-icon"></span>
             Ver proyectos destacados
           </a>
 
