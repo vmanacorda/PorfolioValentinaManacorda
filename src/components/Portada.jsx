@@ -9,7 +9,7 @@ function Portada() {
 
         <div className="hero-title">
           Hola, soy <span>Valentina</span>.<br />
-          Desarrolladora Front-End y Power Apps
+          Desarrolladora Front-End y Power Platform
         </div>
 
         <p className="hero-subtitle">
