@@ -14,21 +14,23 @@ function Skills() {
           <h3>Front-End</h3>
           <ul>
             <li>HTML5 / CSS3</li>
-            <li>SASS</li>
             <li>JavaScript (ES6+)</li>
             <li>React</li>
             <li>Vite</li>
+             <li>Responsive Desing</li>
             <li>Bootstrap</li>
             <li>Tailwind CSS</li>
           </ul>
         </div>
 
         <div className="skill-card">
-          <h3>Back-End & APIs</h3>
+          <h3>QA Testing</h3>
           <ul>
-            <li>APIs RESTful</li>
-            <li>Node.js (básico)</li>
-            <li>Firebase (Auth / Firestore)</li>
+            <li>Testing Funcional</li>
+            <li>Casos de prueba</li>
+            <li>Reportes y seguimientos de bugs</li>
+             <li>Jira</li>
+             <li>Validacion de flujos de negocio</li>
           </ul>
         </div>
 
@@ -36,9 +38,12 @@ function Skills() {
           <h3>Power Platform</h3>
           <ul>
             <li>Power Apps (Canvas Apps)</li>
+             <li>Power Automate (nivel inicial)</li>
             <li>SharePoint Online (listas y permisos)</li>
-            <li>Optimización de procesos</li>
+             <li>Dataverse (nivel inicial)</li>
+             <li>Automatización de procesos</li>
             <li>Diseño de interfaces</li>
+            <li>Gestión de roles y permisos</li>
           </ul>
         </div>
 
@@ -47,6 +52,8 @@ function Skills() {
           <ul>
             <li>Git</li>
             <li>GitHub</li>
+            <li>Jira</li>
+            <li>Trello</li>
             <li>Figma</li>
             <li>Microsoft 365</li>
           </ul>
@@ -58,6 +65,7 @@ function Skills() {
             <li>Proactividad</li>
             <li>Comunicación</li>
             <li>Trabajo en equipo</li>
+            <li>Adaotabilidad</li>
             <li>Resolución de problemas</li>
           </ul>
         </div>
