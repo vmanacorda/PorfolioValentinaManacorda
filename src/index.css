@@ -968,5 +968,14 @@ section:nth-child(even)::before {
   .about-meta {
     grid-template-columns: minmax(0, 1fr);
   }
+
+.brand,
+.brand span,
+.brand span:nth-child(2) {
+  color: #ffffff !important;
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
 }
  
