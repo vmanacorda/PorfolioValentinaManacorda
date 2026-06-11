@@ -9,14 +9,11 @@ function Portada() {
 
         <div className="hero-title">
           Hola, soy <span>Valentina</span>.<br />
-          Desarrolladora Front-End y Power Platform
+          Desarrolladora Front-End,Power Platform y QA Tester
         </div>
 
         <p className="hero-subtitle">
-Apasionada por la tecnología, soy Front-End Developer con experiencia en Power Apps.
-Actualmente estoy formándome en Inteligencia Artificial aplicada al desarrollo, integrando automatización y soluciones asistidas por IA.
-Me gusta combinar creatividad, lógica y foco en la experiencia de usuario para crear soluciones claras, modernas y funcionales.
-Abierta a nuevos desafíos en el mundo IT.git status
+Desarrolladora Front-End con experiencia en Power Apps, Power Automate y pruebas funcionales. Participé en el desarrollo y validación de una solución de cobranzas para un cliente de México, trabajando con roles de usuario, automatizaciones e integración de datos. Actualmente continúo formándome en Inteligencia Artificial aplicada al desarrollo.
 
 </p>
 
