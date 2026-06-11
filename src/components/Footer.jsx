@@ -12,7 +12,7 @@ function Footer() {
         <div className="footer-links">
 
           <a 
-            href="manacordav@gmail.com"
+            href="manacordavalen@gmail.com"
             className="footer-link"
           >
             📧 Email 
