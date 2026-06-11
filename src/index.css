@@ -103,10 +103,11 @@ header {
   opacity: 0.9;
 }
 
-.brand span:nth-child(2) {
-  font-weight: 600;
-  color: #e5e7eb;
+  .brand span:nth-child(2) {
+  font-size: 0.9rem;
+  color: var(--text-soft);
 }
+
 
 .brand span:last-child {
   text-transform: none;
