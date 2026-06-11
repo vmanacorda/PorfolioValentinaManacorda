@@ -18,7 +18,7 @@ function Contact() {
             href="mailto:tu-correo@example.com"
             className="contact-item"
           >
-            📧 <span>Email:</span> manacordav@gmail.com
+            📧 <span>Email:</span> manacordavalen@gmail.com
           </a>
 
           <a 
